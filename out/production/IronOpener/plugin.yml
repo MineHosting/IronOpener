@@ -1,6 +1,0 @@
-main: eu.mhsl.mc.ironopen.Main
-name: IronOpener
-description: Let players open irontrapdosrs and irondoors
-version: 1.0
-api-version: 1.16
-author: MineTec
