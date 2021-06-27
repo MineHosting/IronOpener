@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IronOpener:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IronOpener_jar</output-path>
+    <root id="archive" name="IronOpener.jar">
+      <element id="module-output" name="IronOpener" />
+    </root>
+  </artifact>
+</component>
